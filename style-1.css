@@ -1,0 +1,39 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f9fc;
+    color: #333;
+}
+
+.main-header {
+    background: linear-gradient(to right, #6ec1e4, #2980b9);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.main-header h1 {
+    font-size: 2.5em;
+}
+
+.main-header p {
+    font-size: 1.2em;
+}
+
+.section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.section h2 {
+    color: #2980b9;
+}
+
+.main-footer {
+    background: #2980b9;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
